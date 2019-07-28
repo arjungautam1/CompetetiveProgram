@@ -1,6 +1,6 @@
 //During the last week of track trainging. Shoshanna achieves the following times in sec rounds 
 //66,57,54,53,64,52 and 59
-//Found her best score use bubble sort .
+//Found her best score
 
 public class Day5 {
 public static void main(String[] args) {
